@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":213,"name":"블루투스 샤워기","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":122,"name":"회초리","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":3,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":77,"name":"정의의 죽빵","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":18,"name":"타피오카 펄","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":1}
+]

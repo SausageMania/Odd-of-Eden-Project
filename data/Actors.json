@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"None","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"!$SulHa_Taller_000","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[{"code":51,"dataId":1,"value":1}],"initialLevel":1,"maxLevel":99,"name":"서라","nickname":"설하","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":2,"characterName":"taller060","classId":1,"equips":[2],"faceIndex":7,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"이직카","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"taller060","classId":1,"equips":[3],"faceIndex":7,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"매트","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"taller060","classId":1,"equips":[4],"faceIndex":6,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"애미","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":4,"characterName":"taller060","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"인구","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"CHAR","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
